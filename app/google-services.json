@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "310548371676",
+    "project_id": "cort---fer",
+    "storage_bucket": "cort---fer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310548371676:android:235e48f878ff28c64d7c19",
+        "android_client_info": {
+          "package_name": "cortfer.com.cort_fer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4cI-cSOkkej7VcwiRgYo5oYLzfiyOmfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
